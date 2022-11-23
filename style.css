@@ -1,0 +1,16 @@
+.bg {
+    display: flex;
+    position: absolute;
+    width: 1935px;
+    height: 980px;
+    background-color: #06283D;
+    left: -1%;
+    top: -1%;
+}
+
+.main-img {
+    display: flex;
+    position: absolute;
+    right: 10%;
+    bottom: 13%;
+}
