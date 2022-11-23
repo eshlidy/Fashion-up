@@ -14,3 +14,109 @@
     right: 10%;
     bottom: 13%;
 }
+
+.left {
+    display: flex;
+    position: absolute;
+    right: 15%;
+    bottom: 5%;
+}
+
+.right {
+    display: flex;
+    position: absolute;
+    right: 11%;
+    bottom: 5%;
+}
+
+.l {
+    opacity: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    right: 15%;
+    bottom: 5%;
+}
+
+.r {
+    opacity: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    right: 11%;
+    bottom: 5%;
+}
+
+.login {
+    top: 4%;
+    right: 10%;
+    display: flex;
+    position: absolute;
+}
+
+.txt-login > .log-text {
+    display: flex;
+    position: absolute;
+    top: 3%;
+    right: 5%;
+    color: #DFF6FF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.wish {
+    display: flex;
+    position: absolute;
+    top: 4%;
+    right: 17%;
+
+}
+
+.bag {
+    display: flex;
+    position: absolute;
+    top: 4%;
+    right: 22%;
+}
+
+.bag-bt {
+    opacity: 0;
+    display: flex;
+    position: absolute;
+    top: 4%;
+    height: 48px;
+    width: 48px;
+    border-radius: 100px ;
+    right: 22%;
+    justify-content: center;
+    text-align: center;
+}
+
+.wish-bt {
+    opacity: 0;
+    display: flex;
+    position: absolute;
+    top: 4%;
+    height: 48px;
+    width: 48px;
+    border-radius: 100px ;
+    right: 17%;
+    justify-content: center;
+    text-align: center;
+}
+
+.login-bt {
+    opacity: 0;
+    display: flex;
+    position: absolute;
+    top: 4%;
+    height: 48px;
+    width: 48px;
+    border-radius: 100px ;
+    right: 10%;
+    justify-content: center;
+    text-align: center;
+}
